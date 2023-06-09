@@ -32,12 +32,12 @@
             <artifactId>spring-boot-starter-webflux</artifactId><!--provides support for reactive web applications and puts another approach to building web services-->
         </dependency>
 
-        <!--
         <dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-netflix-eureka-client</artifactId>
         </dependency>
-        <dependency>
+
+        <!--<dependency>
             <groupId>org.springframework.cloud</groupId>
             <artifactId>spring-cloud-starter-circuitbreaker-resilience4j</artifactId>
          </dependency>
